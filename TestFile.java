@@ -1,4 +1,4 @@
-public class TestFile {
+public class TestFileBFS_BFS {
   public static void main(String[] args) {
     System.out.println("------------GRAPH------------");
     BFS_DFS g = new BFS_DFS(100);
